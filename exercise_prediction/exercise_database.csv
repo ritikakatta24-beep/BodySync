@@ -1,0 +1,169 @@
+exercise_name,workout_type,muscle_group,difficulty,sets_beginner,sets_intermediate,sets_advanced,reps_beginner,reps_intermediate,reps_advanced,rest_seconds,weight_male_beginner_kg,weight_male_intermediate_kg,weight_male_advanced_kg,weight_female_beginner_kg,weight_female_intermediate_kg,weight_female_advanced_kg,equipment_needed,is_timed
+Barbell Bench Press,strength,chest,all,3,4,5,8,10,12,90,20.0,40.0,70.0,12.0,24.0,42.0,full_gym,False
+Dumbbell Bench Press,strength,chest,all,3,4,5,8,10,12,90,10.0,20.0,35.0,6.0,12.0,21.0,full_gym,False
+Incline Barbell Bench Press,strength,chest,all,3,4,4,8,8,10,90,20.0,35.0,60.0,12.0,21.0,36.0,full_gym,False
+Incline Dumbbell Press,strength,chest,all,3,4,4,8,10,12,90,10.0,18.0,30.0,6.0,10.0,18.0,full_gym,False
+Decline Barbell Bench Press,strength,chest,intermediate,0,3,4,0,8,10,90,0.0,40.0,70.0,0.0,24.0,42.0,full_gym,False
+Push-ups,strength,chest,all,3,4,5,10,20,30,60,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,False
+Cable Crossovers,strength,chest,intermediate,0,3,4,0,12,15,60,0.0,15.0,25.0,0.0,9.0,15.0,full_gym,False
+Dumbbell Flyes,strength,chest,all,3,3,4,10,12,15,60,5.0,10.0,18.0,3.0,6.0,10.0,dumbbells_home,False
+Pec Deck Machine,strength,chest,all,3,3,4,10,12,15,60,20.0,40.0,60.0,12.0,24.0,36.0,full_gym,False
+Resistance Band Chest Press,strength,chest,beginner,3,4,0,12,15,0,60,0.0,0.0,0.0,0.0,0.0,0.0,resistance_bands,False
+Barbell Deadlift,strength,back,all,3,4,5,5,5,5,120,40.0,80.0,140.0,24.0,48.0,84.0,full_gym,False
+Pull-ups,strength,back,intermediate,0,3,4,0,5,12,90,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,False
+Lat Pulldown,strength,back,all,3,4,4,10,10,12,90,20.0,40.0,60.0,12.0,24.0,36.0,full_gym,False
+Seated Cable Row,strength,back,all,3,4,4,10,10,12,90,20.0,40.0,60.0,12.0,24.0,36.0,full_gym,False
+Barbell Bent-Over Row,strength,back,all,3,4,4,8,8,10,90,20.0,40.0,60.0,12.0,24.0,36.0,full_gym,False
+Dumbbell Single-Arm Row,strength,back,all,3,3,4,10,10,12,60,10.0,20.0,35.0,6.0,12.0,21.0,dumbbells_home,False
+T-Bar Row,strength,back,intermediate,0,3,4,0,8,10,90,0.0,30.0,50.0,0.0,18.0,30.0,full_gym,False
+Face Pulls,strength,back,all,3,3,4,12,15,15,60,10.0,20.0,30.0,6.0,12.0,18.0,full_gym,False
+Hyperextensions,strength,back,all,3,3,4,10,15,20,60,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,False
+Resistance Band Row,strength,back,beginner,3,4,0,12,15,0,60,0.0,0.0,0.0,0.0,0.0,0.0,resistance_bands,False
+Barbell Back Squat,strength,legs,all,3,4,5,8,8,10,120,20.0,60.0,100.0,12.0,36.0,60.0,full_gym,False
+Barbell Front Squat,strength,legs,intermediate,0,3,4,0,8,8,120,0.0,40.0,80.0,0.0,24.0,48.0,full_gym,False
+Leg Press,strength,legs,all,3,4,4,10,10,12,90,40.0,100.0,180.0,24.0,60.0,108.0,full_gym,False
+Romanian Deadlift,strength,legs,all,3,4,4,8,10,12,90,20.0,50.0,90.0,12.0,30.0,54.0,full_gym,False
+Lunges (Dumbbell),strength,legs,all,3,3,4,10,12,15,60,5.0,12.0,20.0,3.0,7.0,12.0,dumbbells_home,False
+Leg Extensions,strength,legs,all,3,3,4,12,15,15,60,15.0,30.0,50.0,9.0,18.0,30.0,full_gym,False
+Lying Leg Curls,strength,legs,all,3,3,4,12,15,15,60,15.0,30.0,50.0,9.0,18.0,30.0,full_gym,False
+Standing Calf Raises,strength,legs,all,3,4,4,15,20,25,60,20.0,40.0,70.0,12.0,24.0,42.0,full_gym,False
+Seated Calf Raises,strength,legs,all,3,3,4,15,20,20,60,20.0,35.0,60.0,12.0,21.0,36.0,full_gym,False
+Bulgarian Split Squat,strength,legs,intermediate,0,3,4,0,10,12,90,0.0,10.0,20.0,0.0,6.0,12.0,dumbbells_home,False
+Goblet Squat,strength,legs,all,3,3,4,10,12,15,60,10.0,20.0,32.0,6.0,12.0,19.0,kettlebell_home,False
+Overhead Barbell Press,strength,shoulders,all,3,4,5,8,8,10,90,20.0,35.0,60.0,12.0,21.0,36.0,full_gym,False
+Seated Dumbbell Press,strength,shoulders,all,3,3,4,8,10,12,90,8.0,15.0,25.0,5.0,9.0,15.0,dumbbells_home,False
+Lateral Raises,strength,shoulders,all,3,3,4,12,15,15,60,5.0,10.0,15.0,3.0,6.0,9.0,dumbbells_home,False
+Front Raises,strength,shoulders,all,3,3,4,12,15,15,60,5.0,10.0,15.0,3.0,6.0,9.0,dumbbells_home,False
+Reverse Pec Deck,strength,shoulders,all,3,3,4,12,15,15,60,15.0,30.0,45.0,9.0,18.0,27.0,full_gym,False
+Arnold Press,strength,shoulders,intermediate,0,3,4,0,10,12,90,0.0,12.0,22.0,0.0,7.0,13.0,dumbbells_home,False
+Upright Row,strength,shoulders,all,3,3,4,10,12,12,60,15.0,30.0,45.0,9.0,18.0,27.0,full_gym,False
+Cable Lateral Raises,strength,shoulders,intermediate,0,3,4,0,12,15,60,0.0,5.0,10.0,0.0,3.0,6.0,full_gym,False
+Shrugs (Dumbbell),strength,shoulders,all,3,3,4,15,15,20,60,15.0,30.0,45.0,9.0,18.0,27.0,dumbbells_home,False
+Barbell Bicep Curl,strength,arms,all,3,3,4,10,12,15,60,15.0,25.0,40.0,9.0,15.0,24.0,full_gym,False
+Dumbbell Alternate Bicep Curl,strength,arms,all,3,3,4,10,12,12,60,8.0,14.0,20.0,5.0,8.0,12.0,dumbbells_home,False
+Hammer Curls,strength,arms,all,3,3,4,10,12,15,60,8.0,14.0,22.0,5.0,8.0,13.0,dumbbells_home,False
+Tricep Pushdown,strength,arms,all,3,3,4,12,15,15,60,15.0,25.0,40.0,9.0,15.0,24.0,full_gym,False
+Overhead Tricep Extension,strength,arms,all,3,3,4,10,12,15,60,10.0,20.0,30.0,6.0,12.0,18.0,dumbbells_home,False
+Skull Crushers,strength,arms,intermediate,0,3,4,0,10,12,60,0.0,20.0,35.0,0.0,12.0,21.0,full_gym,False
+Tricep Dips,strength,arms,all,3,3,4,8,15,20,60,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,False
+Preacher Curls,strength,arms,intermediate,0,3,4,0,10,12,60,0.0,20.0,30.0,0.0,12.0,18.0,full_gym,False
+Running (Treadmill),cardio,legs,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,cardio_machine,True
+Cycling (Stationary),cardio,legs,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,cardio_machine,True
+Rowing Machine,cardio,full_body,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,cardio_machine,True
+Elliptical Trainer,cardio,full_body,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,cardio_machine,True
+Stair Climber,cardio,legs,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,cardio_machine,True
+Jump Rope,cardio,full_body,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Jumping Jacks,cardio,full_body,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+High Knees,cardio,legs,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Mountain Climbers (Paced),cardio,core,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Burpees (Paced),cardio,full_body,all,3,4,5,20,30,40,45,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,False
+Shadow Boxing,cardio,full_body,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Swimming (Freestyle),cardio,full_body,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Swimming (Breaststroke),cardio,full_body,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Swimming (Butterfly),cardio,full_body,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Swimming (Backstroke),cardio,full_body,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Walking (Brisk),cardio,legs,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Jogging In Place,cardio,legs,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Ski Erg,cardio,full_body,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,cardio_machine,True
+Air Bike,cardio,full_body,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,cardio_machine,True
+Step Aerobics,cardio,legs,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Kickboxing Drills,cardio,full_body,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Dancing (Zumba),cardio,full_body,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Agility Ladder Drills,cardio,legs,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Speed Skaters (Paced),cardio,legs,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Bear Crawls (Paced),cardio,full_body,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Crab Walks,cardio,full_body,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Kettlebell Swings (Light),cardio,full_body,all,3,4,5,20,30,40,45,0.0,0.0,0.0,0.0,0.0,0.0,kettlebell_home,False
+Punching Bag Work,cardio,arms,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,full_gym,True
+Treadmill Incline Walk,cardio,legs,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,cardio_machine,True
+Rowing (Water),cardio,full_body,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Jacob's Ladder,cardio,full_body,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,cardio_machine,True
+Arm Ergometer,cardio,arms,all,1,1,1,600,1200,1800,30,0.0,0.0,0.0,0.0,0.0,0.0,cardio_machine,True
+Burpees (Max Effort),hiit,full_body,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Mountain Climbers (Sprint),hiit,core,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Jump Squats,hiit,legs,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+High Knees (Sprint),hiit,legs,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Jumping Lunges,hiit,legs,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Tuck Jumps,hiit,legs,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Plank Jacks,hiit,core,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Skaters (Explosive),hiit,legs,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Box Jumps,hiit,legs,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,full_gym,True
+Battle Ropes,hiit,arms,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,full_gym,True
+Kettlebell Swings (Heavy),hiit,glutes,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,kettlebell_home,True
+Medicine Ball Slams,hiit,full_body,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,full_gym,True
+Sprint Intervals (Treadmill),hiit,legs,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,cardio_machine,True
+Rowing Sprints,hiit,full_body,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,cardio_machine,True
+Air Bike Sprints,hiit,full_body,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,cardio_machine,True
+Thrusters (Dumbbell),hiit,full_body,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,dumbbells_home,True
+Renegade Rows,hiit,core,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,dumbbells_home,True
+Push-up to Side Plank,hiit,chest,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Plyo Push-ups,hiit,chest,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Bicycle Crunches (Fast),hiit,core,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Broad Jumps,hiit,legs,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Star Jumps,hiit,full_body,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Suicide Sprints,hiit,legs,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Agility Cone Drills,hiit,legs,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Frog Jumps,hiit,legs,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Bear Crawl Sprints,hiit,full_body,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Donkey Kicks (Explosive),hiit,glutes,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Lunge Chops,hiit,full_body,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,dumbbells_home,True
+Wall Ball Shots,hiit,full_body,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,full_gym,True
+Sled Push,hiit,full_body,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,full_gym,True
+Tire Flips,hiit,full_body,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,full_gym,True
+Lateral Bound,hiit,legs,all,3,4,5,20,30,40,15,0.0,0.0,0.0,0.0,0.0,0.0,bodyweight_only,True
+Downward-Facing Dog,yoga,full_body,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Upward-Facing Dog,yoga,back,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Chaturanga Dandasana,yoga,chest,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Warrior I,yoga,legs,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Warrior II,yoga,legs,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Warrior III,yoga,legs,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Triangle Pose,yoga,core,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Tree Pose,yoga,legs,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Child's Pose,yoga,back,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Cobra Pose,yoga,back,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Cat Pose,yoga,back,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Cow Pose,yoga,back,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Bridge Pose,yoga,glutes,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Seated Forward Bend,yoga,back,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Pigeon Pose,yoga,glutes,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Camel Pose,yoga,back,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Bow Pose,yoga,back,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Boat Pose,yoga,core,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Crow Pose,yoga,arms,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Eagle Pose,yoga,legs,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Half Moon Pose,yoga,core,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Plank Pose,yoga,core,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Side Plank,yoga,core,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Corpse Pose (Savasana),yoga,full_body,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Lotus Pose,yoga,legs,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Chair Pose,yoga,legs,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Extended Side Angle,yoga,core,all,1,2,3,30,45,60,15,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+The Hundred,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Roll-Up,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Roll-Over,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Single Leg Circle,pilates,legs,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Rolling Like a Ball,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Single Leg Stretch,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Double Leg Stretch,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Spine Stretch Forward,pilates,back,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Open Leg Rocker,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Corkscrew,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Saw,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Swan-Dive,pilates,back,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Single Leg Kick,pilates,glutes,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Double Leg Kick,pilates,back,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Neck Pull,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Scissors,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Bicycle (Pilates),pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Shoulder Bridge,pilates,glutes,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Spine Twist,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Jackknife,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Side Kick,pilates,glutes,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Teaser,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Hip Twist,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Swimming (Pilates),pilates,back,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Leg Pull Front,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Leg Pull Back,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Kneeling Side Kick,pilates,glutes,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Boomerang,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
+Seal,pilates,core,all,2,3,4,30,45,60,20,0.0,0.0,0.0,0.0,0.0,0.0,yoga_mat,True
